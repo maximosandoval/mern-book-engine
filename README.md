@@ -38,4 +38,3 @@ The program was built with the following:
 ## Screenshots
 [Screenshot](https://github.com/maximosandoval/mern-book-engine/blob/main/client/images/mern-1.png)
 
-# mern-book-engine
